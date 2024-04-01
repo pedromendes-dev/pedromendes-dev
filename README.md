@@ -2,6 +2,7 @@
 ### Olá! Eu sou  o Pedro Mendes 💀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedrow.m_)
+[![WhatsApp](https://img.shields.io/badge/Whatsapp-E4405F?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=999385868&text&type=phone_number&app_absent=0_)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromendes-dev&show_icons=true&theme=radical)
 
