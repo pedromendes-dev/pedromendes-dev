@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Sou Pedro, estudante de Ciências da Computação, e sou apaixonado pela tecnologia. Desde cedo, me encantei pelo mundo da computação e sempre busquei me aprofundar em pro!jetos desafiadores. A cada dia, minha curiosidade e determinação me impulsionam a aprender mais e a explorar novas soluções. Estou sempre em busca de transformar ideias em realidade e espero, um dia, fazer a diferença no futuro da tecnologia
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* ✉️  You can contact me at [pedroeliasxexeu@gmail.com](mailto:pedroeliasxexeu@gmail.com)
-* 🤝  I'm open to collaborating on Projetos interessantes
+* ✉️  You can contact me at [pedroeliasxexeu@gmail.com](mailto:pedroeliasxexeu@gmail.com)
+* 🤝  I'm open to collaborating on Projetos interessantes
 
 ### Skills
 
@@ -16,10 +16,7 @@ Sou Pedro, estudante de Ciências da Computação, e sou apaixonado pela tecnolo
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/pedromendes-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/pedrow.m_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pedro-mendes-07aaa02b0/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
----
-
-### 🏆 Badges
+### Badges
 
 <b>My GitHub Stats</b>
 
