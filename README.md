@@ -27,7 +27,7 @@
 
 <br/>
 
-Sou Pedro, estudante de Ciencias da Computacao e apaixonado por tecnologia.
+Sou Pedro Mendes, estudante de Ciencias da Computacao e apaixonado por tecnologia.
 Busco me aprofundar em projetos desafiadores e transformar ideias em realidade.
 Curiosidade e determinacao me impulsionam a aprender mais todos os dias.
 
@@ -49,4 +49,10 @@ Curiosidade e determinacao me impulsionam a aprender mais todos os dias.
   <a href="https://www.instagram.com/pedrow.m_/">
     <img src="https://img.shields.io/badge/-Instagram-080c14?style=for-the-badge&logo=instagram&logoColor=ffb020" alt="Instagram"/>
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Este perfil e publico sob a licenca GPL-3.0. Se usar partes, mantenha a atribuicao e a mesma licenca.</sub>
 </div>
