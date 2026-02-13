@@ -1,0 +1,70 @@
+# Galaxy Profile README Configuration
+# Generated from your previous README
+
+username: pedromendes-dev
+
+profile:
+  name: "Pedro Elias Mendes"
+  tagline: "Desenvolvedor Full Stack"
+  bio: |
+    Sou estudante de Ciencias da Computacao e apaixonado por tecnologia.
+    Busco me aprofundar em projetos desafiadores e transformar ideias em realidade.
+  philosophy: "Curiosidade, determinacao e aprendizado continuo."
+
+social:
+  email: "pedroeliasxexeu@gmail.com"
+  linkedin: "pedro-elias-mendes-1380a1335"
+  website: "https://github.com/pedromendes-dev"
+
+galaxy_arms:
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "JavaScript"
+      - "TypeScript"
+      - "React"
+      - "HTML"
+      - "CSS"
+      - "Bootstrap"
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "Node.js"
+      - "Django"
+      - "Kotlin"
+      - "MySQL"
+  - name: "DevOps & Cloud"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      - "Git"
+      - "Linux"
+      - "Google Cloud"
+      - "WordPress"
+
+theme:
+  void: "#05070b"
+  nebula: "#0b1220"
+  star_dust: "#162033"
+  synapse_cyan: "#25f4ee"
+  dendrite_violet: "#ff6bd6"
+  axon_amber: "#ffd166"
+  text_bright: "#f8fafc"
+  text_dim: "#b4c2d0"
+  text_faint: "#7c8aa5"
+
+projects: []
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+  max_display: 8
